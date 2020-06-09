@@ -5,7 +5,7 @@ on:
     types: [opened]
 
 env:
-  DOCKER_IMAGE_NAME: gumbon-azure-ttt
+  DOCKER_IMAGE_NAME: gumbon-azure2-ttt
   IMAGE_REGISTRY_URL: docker.pkg.github.com
   #################################################
   ### USER PROVIDED VALUES ARE REQUIRED BELOW   ###
